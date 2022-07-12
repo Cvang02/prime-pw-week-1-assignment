@@ -1,3 +1,47 @@
+body {
+    background-color: black;
+}
+
+.header {
+    font-family: italic;
+    border-top: 5px solid orange;
+    border-bottom: 5px solid orange;
+    text-align: center;
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+.image {
+    margin-top: 50px;
+    text-align: center;
+    border: 7px solid orange;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white
+}
+
+.footer{
+    text-align: center;
+    color: pink;
+    border-top: 5px solid orange;
+    border-bottom: 5px solid orange;
+    background-color: gray;
+  }
+
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
