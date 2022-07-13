@@ -3,28 +3,34 @@ body {
 }
 
 .header {
-    font-family: italic;
-    border-top: 5px solid orange;
-    border-bottom: 5px solid orange;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top: 10px solid orange;
+    border-bottom: 10px solid orange;
     text-align: center;
-    background-color: gray;
+    background-color: rgb(215, 129, 53);
+    border-style: groove;
 }
 
 h1 {
     text-align: center;
-    color: orange;
+    color: rgb(255, 183, 0);
 }
 
 .image {
     margin-top: 50px;
+    border: 10px solid orange;
+    border-style: groove;
     text-align: center;
-    border: 7px solid orange;
 }
 
 h2 {
     color: white;
     text-align: center;
     font-size: 45px;
+}
+
+.image2 {
+    text-align: center;
 }
 
 ul {
@@ -36,10 +42,12 @@ ul {
 
 .footer{
     text-align: center;
-    color: pink;
-    border-top: 5px solid orange;
-    border-bottom: 5px solid orange;
-    background-color: gray;
+    color: rgb(255, 153, 170);
+    border-top: 10px solid orange;
+    border-bottom: 10px solid orange;
+    background-color: rgb(215, 129, 53);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: groove;
   }
 
 /* Give your page a fun background color */

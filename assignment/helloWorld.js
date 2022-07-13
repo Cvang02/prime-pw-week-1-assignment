@@ -1,1 +1,1 @@
-console.log("Hello Would and Prime!");
+console.log("Hello World and Prime!");
